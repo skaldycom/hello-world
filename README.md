@@ -1,2 +1,2 @@
 # hello-world
-początek
+coś nowego by się działo
